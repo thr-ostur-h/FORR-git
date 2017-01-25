@@ -11,3 +11,9 @@ print(samlagning)
 print("Ef þú margfaldar tölurnar saman þá færðu")
 print(margfoldun)
 print("")
+
+#Dæmi2
+fornafn=input("Fornafn?")
+eftnafn=input("Eftirnafn?")
+print("Halló",fornafn,eftnafn)
+print("")
