@@ -1,6 +1,6 @@
 #Þröstur Haraldsson
 #25.1.2017
-"""
+
 #Dæmi1
 tala1=int(input("Sláðu inn tölu"))
 tala2=int(input("Sláðu inn aðra tölu"))
@@ -17,7 +17,7 @@ fornafn=input("Fornafn?")
 eftnafn=input("Eftirnafn?")
 print("Halló",fornafn,eftnafn)
 print("")
-"""
+
 #Dæmi3
 text=input("Texti:")
 telstor=0
